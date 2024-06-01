@@ -1,0 +1,28 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+header {
+    background-color: #4c555f;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: #4c555f;
+    color: #fff;
+    padding:10px;
+}
+
+body {
+    padding: 50px
+}
